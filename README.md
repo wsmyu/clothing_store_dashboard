@@ -22,3 +22,19 @@
   <li>PrimeReact</li>
 </ul>
 
+<h3>Login Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/ced137d2-0016-46d7-86c2-463c60ae777a">
+<h3>Home Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/4444644b-a502-4846-ba22-d55736993db8">
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/c4bee212-d35f-4301-aa54-f6aa97465eb1">
+<h3>Product Catalog Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/cf1e3fcc-4ba0-45f0-abd9-c86dead5bb78">
+<h3>Add Product Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/e177ba16-1882-4165-8039-af108a832292">
+<h3>Inventory Overview Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/3e4407fe-5541-441a-99bf-8d99f9e6c46b">
+<h3>Variant Inventory Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/941a8b7f-b450-4de1-a3e2-d6410013b3a4">
+<h3>User Profile Page</h3>
+<img width="948" alt="image" src="https://github.com/wsmyu/clothing_store_dashboard/assets/118221964/adc90070-f28f-4c84-a86a-c91fa22c686a">
+
